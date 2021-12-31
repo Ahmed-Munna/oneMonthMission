@@ -1,0 +1,32 @@
+=============================================================================Misssion And Vision=================================================================================
+
+1  => cit-video(10,11)                             					+          Wordpress themeCamp all works
+2  => cit-video(12,13)									+          Wordpress themeCamp all works
+3  => cit-video(14,15)									+          Wordpress themeCamp all works
+4  => cit-video(16,17)									+          Wordpress themeCamp all works
+5  => cit-video(18,19)									+          Wordpress themeCamp all works
+6  => cit-video(20,21)									+          Wordpress themeCamp all works
+7  => cit-video(22,23)									+          Wordpress themeCamp all works
+8  => cit-video(24,25)									+          Wordpress themeCamp all works
+9  => cit-video(26,27)									+          Wordpress themeCamp all works
+10 => cit-video(28,29)									+          Wordpress themeCamp all works
+11 => cit-video(30,31)									+          Wordpress themeCamp all works
+12 => cit-video(32,33)									+          Wordpress themeCamp all works
+13 => cit-video(34,35)									+          Wordpress themeCamp all works
+14 => cit-video(36,37)									+          Wordpress themeCamp all works
+15 => cit-video(38,39)									+          Wordpress themeCamp all works
+16 => cit-video(40,41)									+          Wordpress themeCamp all works
+17 => cit-video(42,43)									+          Wordpress themeCamp all works
+18 => cit-video(44,45)									+          Wordpress themeCamp all works
+19 => project-1										+	   project-1
+20 => project-1										+	   project-1
+21 => project-1										+	   project-1
+22 => project-2										+	   project-1
+23 => project-2										+	   project-1
+24 => project-2										+	   project-1
+25 => project-3										+	   project-1
+26 => project-3										+	   project-1
+27 => project-3										+	   project-1
+28 => project-4										+	   project-1
+29 => project-4										+	   project-1
+30 => project-4										+	   project-1
