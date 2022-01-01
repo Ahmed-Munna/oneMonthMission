@@ -1,6 +1,6 @@
 =============================================================================Misssion And Vision=================================================================================
 
-1  => cit-video(10,11)                             					+          Wordpress themeCamp all works
+1  => cit-video(10,11)                  +          Wordpress themeCamp all works
 2  => cit-video(12,13)									+          Wordpress themeCamp all works
 3  => cit-video(14,15)									+          Wordpress themeCamp all works
 4  => cit-video(16,17)									+          Wordpress themeCamp all works
@@ -27,6 +27,6 @@
 25 => project-3										      +	         project-3
 26 => project-3										      +	         project-3
 27 => project-3										      +	         project-3
-28 => project-4										      +	         project-4
-29 => project-4										      +	         project-4
-30 => project-4										      +	         project-4
+28 => project-4										      +	         protfolio project-4
+29 => project-4										      +	         protfolio project-4
+30 => project-4										      +	         protfolio project-4
